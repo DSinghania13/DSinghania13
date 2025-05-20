@@ -57,6 +57,13 @@
 **Technologies Used:** Python, OpenAI Whisper, Google Speech-to-Text API, MarianMT, Tacotron  
 🔗 [View Repository](https://github.com/DSinghania13/SpeechSync)
 
+
+### 📊 FinRisk: AI-Driven Credit Risk Prediction *(Group Project)*  
+> Built a machine learning-powered credit risk prediction system to classify loan applicants based on default likelihood using financial and behavioral data.
+
+**Technologies Used:** Python, OpenAI Whisper, Google Speech-to-Text API, MarianMT, Tacotron  
+🔗 [View Repository](https://github.com/DSinghania13/FinRisk)
+
 ---
 
 ## 📊 GitHub Stats
