@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Divit Singhania
 
-🎓 A passionate B.Tech Computer Science (AI & ML Specialization) student at **VIT Bhopal University** (Currently in 3rd Semester)  
+🎓 A passionate B.Tech Computer Science (AI & ML Specialization) student at **VIT Bhopal University** (Currently in 3rd Year)  
 💡 Enthusiastic about AI, Machine Learning, NLP, App & Web Development  
 📄 Published research enthusiast with a knack for scientific analysis  
 🌱 Always eager to learn and explore cutting-edge technologies  
