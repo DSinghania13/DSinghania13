@@ -66,6 +66,16 @@
 
 ---
 
+## 📊Code Profiles 
+
+<p>
+  <a href="https://leetcode.com/name/">
+    <img src="https://leetcard.jacoblin.cool/DSinghania?theme=dark&font=Overlock%20SC&ext=activity" width="400"/>
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=DSinghania13&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=DSinghania13&theme=one_dark_pro&hide_border=false)  
