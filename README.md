@@ -4,7 +4,9 @@
 💡 Enthusiastic about AI, Machine Learning, NLP, App & Web Development  
 📄 Published research enthusiast with a knack for scientific analysis  
 🌱 Always eager to learn and explore cutting-edge technologies  
-🌍 Based in **Madhya Pradesh, India**
+🌍 Based in **Madhya Pradesh, India**  
+
+🌐 **Check out my portfolio:** [Click Here](https://divit-singhania-portfolio.vercel.app)
 
 ---
 
