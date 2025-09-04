@@ -63,7 +63,7 @@
 ### 💣 Minesweeper AI – Play, Solve, and Learn
 > Minesweeper AI is an interactive PyQt6-based Minesweeper game with manual play, AI-assisted solving, and rule-based hints. It combines classic gameplay with modern AI agents (CNN & RL) trained on thousands of game sessions.
 
-**Technologies Used:** Python, PyQt6, Tensorflow(RL and CNN), NumPy, WAV, GIF, PNG
+**Technologies Used:** Python, PyQt6, Tensorflow(RL and CNN), NumPy, WAV, GIF, PNG  
 🔗 [View Repository](https://github.com/DSinghania13/Minesweeper-AI)
 
 ### 🎙️ SpeechSync: Real-Time Speech-to-Speech Translation *(Group Project)*  
