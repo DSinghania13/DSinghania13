@@ -6,7 +6,7 @@
 🌱 Always eager to learn and explore cutting-edge technologies  
 🌍 Based in **Madhya Pradesh, India**  
 
-🌐 **Check out my portfolio:** [Click Here](https://divit-singhania-portfolio.vercel.app)
+🌐 **Check out my portfolio:** [Click Here](https://divit-singhania.vercel.app)
 
 ---
 
