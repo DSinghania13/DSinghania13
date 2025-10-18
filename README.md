@@ -56,7 +56,7 @@
 ### 📊 FinRisk: AI-Driven Credit Risk Prediction *(Group Project)*  
 > Built a machine learning-powered credit risk prediction system to classify loan applicants based on default likelihood using financial and behavioral data.
 
-**Technologies Used:** Python, OpenAI Whisper, Google Speech-to-Text API, MarianMT, Tacotron  
+**Technologies Used:** Python, Scikit-learn, TensorFlow/Keras, Flask, Docker, Hugging Face Spaces, MLflow, SHAP  
 👉 [Live Demo](https://finrisk-ai.vercel.app/)  
 🔗 [View Repository](https://github.com/DSinghania13/FinRisk)
 
@@ -69,8 +69,8 @@
 ### 🎙️ SpeechSync: Real-Time Speech-to-Speech Translation *(Group Project)*  
 > Developed a real-time multilingual speech translation system by integrating automatic speech recognition (ASR), neural machine translation (NMT), and text-to-speech (TTS) synthesis.  
 
-**Technologies Used:** Python, OpenAI Whisper, Google Speech-to-Text API, MarianMT, Tacotron
-👉 [Live Demo](https://speech-sync.vercel.app/)
+**Technologies Used:** Python, OpenAI Whisper, Google Speech-to-Text API, MarianMT, Tacotron  
+👉 [Live Demo](https://speech-sync.vercel.app/)  
 🔗 [View Repository](https://github.com/DSinghania13/SpeechSync)
 
 ---
