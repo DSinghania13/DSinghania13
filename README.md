@@ -12,7 +12,7 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divit-singhania-13401628a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/divitsinghania)
 [![Email - Personal](https://img.shields.io/badge/Email-Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divitsinghania05@gmail.com)
 [![Email - College](https://img.shields.io/badge/Email-College-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divit.23bai10721@vitbhopal.ac.in)
 
