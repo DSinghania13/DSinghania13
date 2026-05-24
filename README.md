@@ -106,8 +106,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=DSinghania13&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true)  ![](https://nirzak-streak-stats.vercel.app/?user=DSinghania13&theme=one_dark_pro&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DSinghania13&theme=one_dark_pro&hide_border=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=DSinghania13&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)  ![](https://streak-stats.demolab.com/?user=DSinghania13&theme=highcontrast&hide_border=false)  
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=DSinghania13&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
